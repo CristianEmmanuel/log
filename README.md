@@ -37,6 +37,12 @@ Con respecto a la consulta de usuario se lo hace en el get simplemente sin param
         "firstName": "Jack",
         "lastName": "Daniels",
         "username": "Jacks"
+    },
+    {
+        "id": 3,
+        "firstName": "Jim",
+        "lastName": "Rock",
+        "username": "Cristian13"
     }
 ]
 En el caso de las provincias seria igual ingresando el nombre d e la misma y el respons seria el de la api de la provincia :
